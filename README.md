@@ -1,9 +1,6 @@
 # Rubik's Cube Solver
 ## Project Documentation
 
-**Contributors:**  
-Fares Fathy  
-
 **Course:**  
 Embedded Systems & IOT
 
