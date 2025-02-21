@@ -3,7 +3,6 @@
 
 **Contributors:**  
 Fares Fathy  
-Abdulrahman Saeed
 
 **Course:**  
 Embedded Systems & IOT
@@ -47,4 +46,4 @@ Contributions to this project are welcome. If you encounter any issues or have s
 This project is licensed under the [MIT License](LICENSE).
 ---
 
-For further questions, please contact us at [ffathy2004@gmail.com](mailto:ffathy2004@gmail.com) or [abdosaaed749@gmail.com](mailto:ffathy2004@gmail.com). 
+For further questions, please contact us at [ffathy2004@gmail.com](mailto:ffathy2004@gmail.com). 
